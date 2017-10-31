@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/EssentialScalaT.iml" filepath="$PROJECT_DIR$/EssentialScalaT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/essentialscala.iml" filepath="$PROJECT_DIR$/.idea/modules/essentialscala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/essentialscala-build.iml" filepath="$PROJECT_DIR$/.idea/modules/essentialscala-build.iml" />
     </modules>
   </component>
 </project>
